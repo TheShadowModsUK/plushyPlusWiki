@@ -4,7 +4,7 @@ We have added c:wool, it seems this isn't apart of the NeoForge and Fabric ModLo
 ### c:wool
 - **minecraft:white_wool**
 - **minecraft:orange_wool**,
-- **minecraft:magenta_wool*
+- **minecraft:magenta_wool**
 - **minecraft:light_blue_wool**
 - **minecraft:yellow_wool**
 - **minecraft:lime_wool**
