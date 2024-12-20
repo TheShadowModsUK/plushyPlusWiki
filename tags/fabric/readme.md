@@ -19,3 +19,5 @@ Plushy+ as created a set of **c:plush_fabric** tags to be used across all of it'
 - **c:plush_fabric/gray**
 - **c:plush_fabric/cyan**
 - **c:plush_fabric/brown**
+
+If you are wanting to use Plushy+ apart of your recipes make sure you set it as a dependency, in your mod you set it to **pplus**. On CurgeForge you can input the name when clicking add related project and putting in Plushy+ or it's id 515616 and then setting it to Required Dependency, and on Modrith our id is **HengYWny** when setting a Required Dependency.
