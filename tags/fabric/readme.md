@@ -1,5 +1,5 @@
-# Plushy+ Fabric tags
-Plushy+ as created a set of **c:plush_fabric** tags to be used across all of it's mods we support the full 16 wool colours.
+# Plushy+ Fabric(item) tags
+Plushy+ as created a set of **c:plush_fabric** tags to be used across all of it's mods we support the full 16 wool colours, these tags are for our mod that is created in NeoForge, these tags are valid for Fabric as well but we don't make a Fabric version of our mod so these are just NeoForge tags, please feel free to use them in your Fabric Mods though.
 
 
 ### Tags:
