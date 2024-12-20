@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "pplus:white_fabric",
+    "pplus:blue_fabric",
+    "pplus:pink_fabric",
+    "pplus:brown_fabric",
+    "pplus:black_fabric",
+    "pplus:orange_fabric",
+    "pplus:gray_fabric",
+    "pplus:purple_fabric",
+    "pplus:magenta_fabric",
+    "pplus:red_fabric",
+    "pplus:lime_fabric",
+    "pplus:green_fabric",
+    "pplus:light_blue_fabric",
+    "pplus:yellow_fabric",
+    "pplus:light_gray_fabric",
+    "pplus:cyan_fabric",
+    "#c:fabric"
+  ]
+}
