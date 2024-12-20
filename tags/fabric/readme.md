@@ -3,6 +3,7 @@ Plushy+ as created a set of **c:plush_fabric** tags to be used across all of it'
 
 
 ### Tags:
+- **c:plush_fabric**
 - **c:plush_fabric/white**
 - **c:plush_fabric/black**
 - **c:plush_fabric/red**
