@@ -1,5 +1,5 @@
 # plushyPlusWiki
-This is the official place for information on Plushy+ and it's addo-ons
+This is the official place for information on Plushy+ and it's addo-ons, this git is here for files and information based on our NeoForge versions
 
 ## Tags:
 ### c:wool
